@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HitOrHealGameApp</string>
+    <string name="who_you_are">Who you are?</string>
+    <string name="todo">TODO</string>
+    <string name="dark_lord">Dark Lord</string>
+    <string name="our_champions">Our Champions</string>
+</resources>
